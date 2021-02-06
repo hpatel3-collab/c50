@@ -1,0 +1,19 @@
+    h1{
+        color:rgb(98, 0, 255);
+    }
+    *{
+        border:solid;
+    }
+    .header{
+        background-color: rgb(144, 228, 221);
+        display: flex;
+        justify-content: space-evenly;
+    } 
+    .grid{
+        display: flex;
+        flex-wrap: wrap ;
+        justify-content: space-evenly;
+    }
+    p,h2{
+        text-align: center;
+    }
